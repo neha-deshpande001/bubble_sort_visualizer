@@ -1,9 +1,11 @@
 # Bubble Sort Visualizer
 
+
 ## Overview
 This program is a visual demonstration of bubble sort, a very basic sorting algorithm. The program first populates an array with randomly sized bars that span the width of the window. Then, it uses the bubble sort algorithm to sort them by height from shortest (left) to tallest (right), making one comparison per loop.
 
 The purpose of this project was to become more conversant in the Processing language and gain a deeper understanding of bubble sort by coding my own version of the typical sorting visualization from scratch.
+
 
 ## Demonstration
 
@@ -18,6 +20,7 @@ The purpose of this project was to become more conversant in the Processing lang
 	&nbsp;&nbsp;&nbsp;&nbsp;<b>Large Dataset - 50 Elements</b></p>
 
 
+
 ## Installation
 
 1. Download [Processing 3](https://processing.org/download/).
@@ -30,7 +33,6 @@ The purpose of this project was to become more conversant in the Processing lang
 
 ```
 int numElements = 10;
-
 ```
 
 5. Click the triangle "play" button on the top left of the Processing window to run the program.
