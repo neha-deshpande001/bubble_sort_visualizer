@@ -1,6 +1,7 @@
 //bubble sort visualizer
 
-int numElements = 10; // this changes the number of elements to sort. The bar width will changeautomatically
+// this changes the number of elements to sort. The bar width will change automatically
+int numElements = 10;
 float[] nums = new float[numElements];
 int i = 0;
 int sorted = 0;
