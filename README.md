@@ -25,9 +25,9 @@ The purpose of this project was to become more conversant in the Processing lang
 
 1. Download [Processing 3](https://processing.org/download/).
 
-2. Download and unzip [bubble_sort_visualizer.pde](https://github.com/neha-deshpande001/bubble_sort_visualizer/archive/master.zip).
+2. Download and unzip [sort_visualizer.pde](https://github.com/neha-deshpande001/bubble_sort_visualizer/archive/master.zip).
 
-3. Run bubble_sort_visualizer.pde with Processing 3.
+3. Run sort_visualizer.pde with Processing 3.
 
 4. On line 4, change "10" to the number of elements you want the program to sort. More elements implies that the sorting process will take more time.
 
